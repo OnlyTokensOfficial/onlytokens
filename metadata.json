@@ -1,0 +1,17 @@
+ {
+      "symbol": "OLTK",
+      "name": "OnlyTokens",
+      "image": "https://raw.githubusercontent.com/OnlyTokensOfficial/onlytokens/main/otk.png",
+      "tags": [
+        "utility-token",
+        "community-token",
+        "social-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/MonkeyLeague_Official",
+        "twitter": "https://twitter.com/MilliononMars",
+        "instagram": "https://www.instagram.com/themonkeyleague/",
+        "website": "https://milliononmars.io/"
+      }
+    }
